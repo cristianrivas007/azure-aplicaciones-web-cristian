@@ -35,14 +35,7 @@ aplicaciones web" </strong>, realizado
               </div>
             </div>
 
-            <div className="ministry-row">
-              <div className="flag-stripes">
-                <div className="stripe-y"></div>
-                <div className="stripe-b"></div>
-                <div className="stripe-r"></div>
-              </div>
-              <span className="ministry-label">Ministerio del Trabajo — El Nuevo Ecuador</span>
-            </div>
+             
 
           </div>
         </div>
